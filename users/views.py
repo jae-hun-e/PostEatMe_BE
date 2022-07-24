@@ -14,10 +14,5 @@ class UserListCreate(generics.ListCreateAPIView):
     serializer_class = UserSerializer
 
 
-class MiseListCreate(generics.ListCreateAPIView):
-    queryset = Mise.objects.all()
-    serializer_class = MiseSerializer
-
-
 def test_html(req):
     return render(req, 'test.html')
