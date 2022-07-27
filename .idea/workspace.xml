@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd723a2f-84d5-49a1-9d0f-56e647a48b31" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostEatMe/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PostEatMe/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <workItem from="1658551735964" duration="2058000" />
       <workItem from="1658553906996" duration="7021000" />
       <workItem from="1658562751921" duration="1547000" />
-      <workItem from="1658891673111" duration="2100000" />
+      <workItem from="1658891673111" duration="5406000" />
     </task>
     <servers />
   </component>
