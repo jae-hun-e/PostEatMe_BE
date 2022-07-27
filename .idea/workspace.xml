@@ -6,11 +6,29 @@
   <component name="ChangeListManager">
     <list default="true" id="fd723a2f-84d5-49a1-9d0f-56e647a48b31" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostEatMe/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PostEatMe/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostEatMe/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/PostEatMe/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/memo/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/memo/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/memo/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,11 +93,22 @@
       <workItem from="1658551735964" duration="2058000" />
       <workItem from="1658553906996" duration="7021000" />
       <workItem from="1658562751921" duration="1547000" />
-      <workItem from="1658891673111" duration="5406000" />
+      <workItem from="1658891673111" duration="13221000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
