@@ -9,6 +9,7 @@ class UserListCreate(generics.ListCreateAPIView):
     serializer_class = UserSerializer
 
 
-def get_post(req):
-    if req.method == 'POST':
-        id = req.POST.get('id')
+def del_user(req):
+    record = User.objects.all()
+    record.delete()
+    return render('test.html')
