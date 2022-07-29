@@ -11,7 +11,9 @@ from memo import views as memo
 urlpatterns = [
     path('user/', user.UserListCreate.as_view()),
     path('user/delete_all', user.del_user),
-    path('memo/', memo.MemoListCreate.as_view())
+    path('memo/', memo.MemoListCreate.as_view()),
+    path('memo/<str:name>', memo.del_data),
+    # path('memo/<str:phone>', memo.MemoListCreate.as_view())
     # path('', include(router.urls)),
 
 ]
