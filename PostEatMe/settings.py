@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-veo^wmatrcck+)i2w=6q+vg9puh21*lvq-ua8e2a9f+^*vi4v5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*', '15.165.62.51']
+ALLOWED_HOSTS = ['*', '15.165.62.51','44.209.68.143', 'post-eat-me.kro.kr']
 
 
 # Application definition
@@ -55,9 +55,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware'
 ]
 
-CORS_ORIGIN_WHITELIST = ['http://127.0.0.1:3000','http://localhost:3000',
-                         'http://15.165.62.51', 'http://218.235.241.102',
-                         'http://218.235.241.102:3000']
+CORS_ORIGIN_WHITELIST = ['http://127.0.0.1:3000', 'http://localhost:3000',
+                         'http://218.235.241.102', 'http://218.235.241.102:3000']
 CORS_ALLOW_CREDENTIALS = True
 
 
